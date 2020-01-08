@@ -1,2 +1,2 @@
 zack
-i love to script
+i love to scripting
