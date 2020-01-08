@@ -1,2 +1,1 @@
-zack
-i love to scripting
+this is line one
